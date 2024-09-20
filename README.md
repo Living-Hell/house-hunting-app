@@ -24,3 +24,5 @@ This is a house-hunting application designed to streamline the process of findin
 - Run the application 
 
   `ng serve`
+
+## You can also check out the app live at: [House Hunting App](https://master--house-hunting-app.netlify.app/)
