@@ -1,4 +1,4 @@
-# Angular Homes App
+# House Hunting App
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
